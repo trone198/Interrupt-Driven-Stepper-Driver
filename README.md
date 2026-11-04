@@ -1,6 +1,8 @@
 ### Authors
-`Bratislav Djelosevic -  Co-developer and Mentor`
-`Uros Rackovic -  Co-developer`
+Bratislav Djelosevic -  Co-developer and Mentor
+
+
+Uros Rackovic -  Co-developer
 
 
 # Overview
